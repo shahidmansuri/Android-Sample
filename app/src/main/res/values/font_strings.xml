@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="font_regular">Roboto-Regular.ttf</string>
+    <string name="font_bold">Roboto-Bold.ttf</string>
+    <string name="font_extra_bold">WorkSans-ExtraBold.ttf</string>
+    <string name="font_light">WorkSans-Light.ttf</string>
+    <string name="font_semi_bold">WorkSans-SemiBold.ttf</string>
+
+</resources>

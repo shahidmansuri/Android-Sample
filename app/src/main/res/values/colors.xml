@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="progress_bg">#9d29b0</color>
+    <color name="progress_color">#fff</color>
+    <color name="color_gray">#50000000</color>
+
+    <color name="colorPrimary">#21AAE1</color>
+    <color name="colorPrimaryAlpha">#9921AAE1</color>
+    <color name="colorPrimaryDark">#347AB8</color>
+    <color name="colorAccent">#1AB394</color>
+    <color name="colorBtnRed">#FF5253</color>
+    <color name="colorTextPrimary">#374036</color>
+    <color name="colorTextSecondary">#747474</color>
+    <color name="whiteAlpha">#d9f1eaea</color>
+    <!--
+      100% — FF
+      95% — F2
+      90% — E6
+      85% — D9
+      80% — CC
+      75% — BF
+      70% — B3
+      65% — A6
+      60% — 99
+      55% — 8C
+      50% — 80
+      45% — 73
+      40% — 66
+      35% — 59
+      30% — 4D
+      25% — 40
+      20% — 33
+      15% — 26
+      10% — 1A
+      5% — 0D
+      0% — 00
+      -->
+
+</resources>
